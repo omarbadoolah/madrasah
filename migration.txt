@@ -1,0 +1,3 @@
+Usage:
+
+mysql madrasah < table_name.sql

@@ -1,0 +1,85 @@
+Users
+Coordinator
+Teacher
+Secretary
+
+Provide student registration form
+	As a parent/student
+	I want to register as a new student
+	So that I am on the registration list
+	
+	Acceptance
+		Able to fill out registration form without errors
+		Store registration information (STATE: NEW or UNCONFIRMED)
+		Send confirmation to student
+
+On confirmation, add student to waiting list (STATE: REGISTERED or WAITING)
+	As a coordinator
+	I want to receive student confirmation
+	So that I can add a student to the registration list
+	
+	Acceptance
+		On receiving confirmation, student is on registration list
+
+Admit student
+	As a coordinator
+	I want to admit a student
+	So that they can attend classes
+	
+	Acceptance
+		If waiting list student is older than 6, Test and place student in grade for QR, QM, and IS (STATE: ADMITTED)
+		If waiting list student is 5 or 6, place student in K for QR, QM, and IS (STATE: ADMITTED)
+
+On course completion
+	As a coordinator
+	I want to promote a student
+	So that the student can begin the next grade
+	
+	Acceptance
+		On recognizing completion of grade requirements, promote student to next grade
+	
+On completion
+	As a coordinator
+	I want to graduate a student
+	So that the student can exit the Madrasah
+	
+	Acceptance
+		On recognizing completion of last grade, graduate student
+	
+Entering grades
+	As a teacher
+	I want to enter a grade for a student
+	So that I can complete student assessments
+	
+	Acceptance
+		Provide a list of students for teacher to grade
+		Provide of list of topics to assess
+		Store grades for each student
+	
+Attendance
+	As a teacher
+	I want to note absences and latenesses
+	So that I can record classroom attendance
+
+	Acceptance
+		Provide a form to record student absence or lateness
+		
+Curriculum
+	As a teacher
+	I want to access the lesson for a set of weeks
+	So that I can know what I am supposed to teach
+	
+	Acceptance
+		Provide a list of lessons to teacher
+		
+Materials
+	As a teacher
+	I want to add materials for a particular lesson
+	So that myself or others can use them again
+	
+	Acceptance
+		Accept material and store it as associated with lesson
+		
+	As a coordinator
+	I want to approve materials
+	So that I can check that all materials available to teachers are suitable for students

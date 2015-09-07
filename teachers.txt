@@ -1,0 +1,30 @@
+Shaleza	Safick	305-360-7425	shaleza@yahoo.com	1B	1B	1B	teacher
+Omar	Badoolah	305-360-7425	omar.badoolah@gmail.com			2B	teacher
+Muhammed Umar	Arian	281-673-0759	muarian7@gmail.com	2B	2B		teacher
+Raheem	Seecharam	954-802-9941	rseech02@gmail.com			3B	teacher
+Abid	Farooq	832-366-6662	farooqabidm@gmail.com	3B	3B		teacher
+Tahir	Chaudhary	305-772-1254	tchaud01@gmail.com	4B	4B	4B	teacher
+Deeba	Ahmad	954-732-6170	fafda932@gmail.com	K	K	K	teacher
+Belgies	Alomari	954-840-5346	belgiesalomari@yahoo.com	K	K	K	assistant
+Hadeel	Alomari	954-840-5346	alomarihadeel5@gmail.com	K	K	K	assistant
+Whitney	Moores	754-244-3632	whtny36@yahoo.com	1G	1G	1G	teacher
+Nadia	Mohamed	954-899-5136	nadiamohamed95@yahoo.com	2G	2G	2G	teacher
+Aliyah	Esau	954-632-0443	anisahaliyah_25@yahoo.com	3G	3G	3G	teacher
+Asma	Ibrahim			4G	4G	4B	teacher
+Asma	Qureshi	954-708-5089	asmapittman@gmail.com			4G	teacher
+Zaleema	Mohamed	954-261-9379	zaleema@msn.com	5G	5G	5G	teacher
+Alyeea	Mohamed	954-965-6049	alyeeamohamed@gmail.com				assistant
+Alyssa	Mohamed	954-965-6049	shayanemohamed@gmail.com				assistant
+Fatimah	Ibrahim	954-391-1534	fatimah912@gmail.com				assistant
+Shaima	Alomari		shaimaalomari@yahoo.com				assistant
+Adam	Tolaymat		adamtolaymat1@yahoo.com				potential
+Adeel	Hye		adeelhye@gmail.com				potential
+Alex	Mohamed	954-965-6049	shafiqalexander@gmail.com				potential
+Anneisha	Mamood		gtannia@yahoo.com				potential
+Aya	Eltantawy	954-651-3793	kiwi556@gmail.com				potential
+Faniesha	Mamood	954-830-4006	mamof1@gmail.com				potential
+Isra	Ibrahim	954-534-3768	israibrahim1997@gmail.com				potential
+Jamal	Mohammad		jmohammad1105@gmail.com				potential
+Mohamed	Ibrahim		mohamed.blackfang@gmail.com				potential
+Tahir	Mohammed		guyaneeseboy@live.com				potential
+Tarik	Aharoui		tarik.aharoui956@gmail.com				potential
